@@ -1,11 +1,159 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "flash-deal": {
+    "Title": "Flash Deal Sale",
+    "SubTitle": "Friday Black Out Offer",
+    "StartDate": "2023-03-12 09:35:20",
+    "EndDate": "2024-03-03 09:35:20",
+    "FlashDateDescription": "This deal ending in",
+    "FlashDealId": 5,
+    "Status": 1,
+    "Featured": 1,
+    "TextColor": "",
+    "Banner": "",
+    "Slug": "",
+    "Products": [{
+            "ProductId": 1,
+            "Name": "Mobile",
+            "Discount": 20,
+            "DiscountType": "percent",
+            "CategoryId": 2,
+            "CategoryName": "Tech",
+            "BrandId": 3,
+            "BrandName": "Test Banner",
+            "ProductImage": "https://i.ibb.co/jw7Mx9L/product-Image.png",
+            "ProductPrice": 100,
+            "DiscountedPrice": 80,
+            "StockVisibilityState": "",
+            "CashOnDelivery": "",
+            "CurrentStock": 10,
+            "MinQuantity": 3,
+            "RatingNumber": 4.7,
+            "NumberOfReviews": 7,
+            "UnitId": 1,
+            "UnitName": "BDT",
+            "Tags": [
+                "Limited Edition"
+            ]
+        },
+        {
+            "ProductId": 2,
+            "Name": "Laptop",
+            "Discount": 20,
+            "DiscountType": "percent",
+            "CategoryId": 2,
+            "CategoryName": "Tech",
+            "BrandId": 3,
+            "BrandName": "Test Banner",
+            "ProductImage": "https://i.ibb.co/jw7Mx9L/product-Image.png",
+            "ProductPrice": 2000,
+            "DiscountedPrice": 1900,
+            "StockVisibilityState": "",
+            "CashOnDelivery": "",
+            "CurrentStock": 10,
+            "MinQuantity": 3,
+            "RatingNumber": 3.8,
+            "NumberOfReviews": 15,
+            "UnitId": 1,
+            "UnitName": "BDT",
+            "Tags": [
+                "Unique Edition"
+            ]
+        },
+        {
+            "ProductId": 3,
+            "Name": "Test Product 3",
+            "Discount": 20,
+            "DiscountType": "percent",
+            "CategoryId": 2,
+            "CategoryName": "Tech",
+            "BrandId": 3,
+            "BrandName": "Test Banner",
+            "ProductImage": "https://i.ibb.co/jw7Mx9L/product-Image.png",
+            "ProductPrice": 1500,
+            "DiscountedPrice": 1460,
+            "StockVisibilityState": "",
+            "CashOnDelivery": "",
+            "CurrentStock": 10,
+            "MinQuantity": 3,
+            "RatingNumber": 4,
+            "NumberOfReviews": 6,
+            "UnitId": 1,
+            "UnitName": "BDT",
+            "Tags": []
+        },
+        {
+            "ProductId": 4,
+            "Name": "Test Product 4",
+            "Discount": 20,
+            "DiscountType": "percent",
+            "CategoryId": 2,
+            "CategoryName": "Tech",
+            "BrandId": 3,
+            "BrandName": "Test Banner",
+            "ProductImage": "https://i.ibb.co/jw7Mx9L/product-Image.png",
+            "ProductPrice": 700,
+            "DiscountedPrice": 660,
+            "StockVisibilityState": "",
+            "CashOnDelivery": "",
+            "CurrentStock": 10,
+            "MinQuantity": 3,
+            "RatingNumber": 3,
+            "NumberOfReviews": 5,
+            "UnitId": 1,
+            "UnitName": "BDT",
+            "Tags": []
+        },
+        {
+            "ProductId": 5,
+            "Name": "Test Product 5",
+            "Discount": 20,
+            "DiscountType": "percent",
+            "CategoryId": 2,
+            "CategoryName": "Tech",
+            "BrandId": 3,
+            "BrandName": "Test Banner",
+            "ProductImage": "https://i.ibb.co/jw7Mx9L/product-Image.png",
+            "ProductPrice": 50000,
+            "DiscountedPrice": 44000,
+            "StockVisibilityState": "",
+            "CashOnDelivery": "",
+            "CurrentStock": 10,
+            "MinQuantity": 3,
+            "RatingNumber": 4,
+            "NumberOfReviews": 12,
+            "UnitId": 1,
+            "UnitName": "BDT",
+            "Tags": [
+                "Unique Edition"
+            ]
+        },
+        {
+            "ProductId": 6,
+            "Name": "Test Product 6",
+            "Discount": 20,
+            "DiscountType": "percent",
+            "CategoryId": 2,
+            "CategoryName": "Tech",
+            "BrandId": 3,
+            "BrandName": "Test Banner",
+            "ProductImage": "https://i.ibb.co/jw7Mx9L/product-Image.png",
+            "ProductPrice": 11000,
+            "DiscountedPrice": 10600,
+            "StockVisibilityState": "",
+            "CashOnDelivery": "",
+            "CurrentStock": 10,
+            "MinQuantity": 3,
+            "RatingNumber": 4,
+            "NumberOfReviews": 12,
+            "UnitId": 1,
+            "UnitName": "BDT",
+            "Tags": [
+                "Limited Edition"
+            ]
+        }
+    ]
+}
+
+
+  
 }
